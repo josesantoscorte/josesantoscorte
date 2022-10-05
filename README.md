@@ -1,6 +1,6 @@
 - 👋 Hi, I’m José Corte
 - 👀 I’m interested in Computer Graphics and AI
-- 🌱 I’m currently learning Computer Science and Engineering in Instituto Superior Técnico (Portugal)
+- 🌱 I’m currently learning Computer Science and Engineering at Instituto Superior Técnico (Portugal)
 - 📫 How to reach me: @josesantoscorte
 
 <!---
